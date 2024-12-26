@@ -72,12 +72,12 @@ a:hover {
   100% {
     opacity: 1; } }
 .main-nav {
-  background: #cf2121;
+  background: #f4f4f4;
   padding-top: 23px; }
   .main-nav nav ul li a {
-    color: #c43a3a; }
+    color: #a7a7a7; }
   .main-nav nav ul li.active a {
-    color: #db3030; }
+    color: #4d4d4d; }
 
 .section.second {
   margin-bottom: 90px; }
@@ -107,7 +107,7 @@ a:hover {
     top: -150px;
     font-size: 270px;
     z-index: -1;
-    color: #3d6891; }
+    color: #f4f4f4; }
   .intro h1 span {
     font-size: 47px; }
 
@@ -141,6 +141,7 @@ a:hover {
 .quote {
   background: url(../img/bg.jpg);
   padding: 20px 0px;
+  color: #131212;
   margin-top: 120px; }
   .quote h1 {
     margin: 100px 0px;
